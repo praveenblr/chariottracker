@@ -1344,3 +1344,6 @@ export const route = [
     ];
 
 export const polyline = route.map(point => [point.lat, point.lon]);
+export const center = [5.417743609227057, 100.31117161594379];
+export const start = [5.416387132299111, 100.33936699633155];
+export const end = [5.432815107402132, 100.29829799633161];
